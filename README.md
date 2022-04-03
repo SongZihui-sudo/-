@@ -1,2 +1,2 @@
-# Mathematical modeling learning
+# 数学建模学习   
 第一次参加数学建模比赛所搜集的一些资料和学习。
